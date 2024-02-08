@@ -4,14 +4,16 @@
 rustsacn and some more tools were used in this project. Hope you like it. Happy hacking 🙂!**
 
 ### Interface of the tool
-![](Images/filename%201.png)
+
+<img src='images/interface.png'>
+
 
 ### Examples
-**Running Nmap**
-![](Images/filename%202.png)
++ **Running Nmap**
+<img src='images/nmap.png'>
 
-**Running Naabu**A
-![](Images/filename%203.png)
++ **Running Naabu**
+<img src='images/naabu.png'>
 
 ### Setup
 ```bash
